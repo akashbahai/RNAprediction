@@ -1,2 +1,2 @@
 # RNAprediction
-Scripts for becnhmarking RNA structure prediction tool on the NSCC
+Scripts for benchmarking RNA structure prediction tool on the NSCC
